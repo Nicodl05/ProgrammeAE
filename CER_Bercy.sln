@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CER_Bercy", "CER_Bercy\CER_Bercy.csproj", "{F86FFA0E-46BB-401A-8064-3F7D58010D5E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F86FFA0E-46BB-401A-8064-3F7D58010D5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F86FFA0E-46BB-401A-8064-3F7D58010D5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F86FFA0E-46BB-401A-8064-3F7D58010D5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F86FFA0E-46BB-401A-8064-3F7D58010D5E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7DDC9B49-2639-4E79-A0EE-D364395EAD78}
+	EndGlobalSection
+EndGlobal
